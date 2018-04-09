@@ -1,3 +1,4 @@
 source "https://rubygems.org"
-gem 'jekyll'
+gem "jekyll"
 gem "type-on-strap"
+gem "minima"
