@@ -24,4 +24,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
-theme: type-on-strap
+theme: minima
