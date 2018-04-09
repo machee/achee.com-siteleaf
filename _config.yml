@@ -1,6 +1,5 @@
 ---
 title: Achee.com Test
-description: Trying out Siteleaf and Jekyll
 timezone: UTC
 collections:
   posts:
@@ -24,5 +23,6 @@ defaults:
     type: pages
   values:
     layout: page
+description: Trying out Siteleaf and Jekyll
 permalink: pretty
 theme: minima
